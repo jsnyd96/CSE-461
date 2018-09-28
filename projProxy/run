@@ -1,0 +1,3 @@
+#!/bin/bash
+
+node HttpProxy.js $1

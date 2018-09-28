@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ThreadServer.py $1

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ThreadClient.py $1 $2

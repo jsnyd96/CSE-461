@@ -1,0 +1,3 @@
+#!/bin/bash
+
+node RegistrationClient.js $1 $2
